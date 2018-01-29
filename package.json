@@ -1,0 +1,23 @@
+{
+  "name": "calculadora-js",
+  "version": "1.0.0",
+  "description": "Projeto de estudo de Testes em JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunoracosta/calculadora-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunoracosta/calculadora-js/issues"
+  },
+  "homepage": "https://github.com/brunoracosta/calculadora-js#readme",
+  "devDependencies": {
+    "jasmine": "^2.9.0"
+  }
+}
