@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/brunoracosta/calculadora-js#readme",
   "devDependencies": {
-    "jasmine": "^2.9.0"
+    "jasmine": "^2.9.0",
+    "karma": "^2.0.0"
   }
 }
