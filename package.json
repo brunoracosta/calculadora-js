@@ -4,7 +4,9 @@
   "description": "Projeto de estudo de Testes em JS",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+	"test-jasmine": "jasmine",
+	"test-dev": "Karma start",
+    "test": "Karma start --single-run"
   },
   "repository": {
     "type": "git",
