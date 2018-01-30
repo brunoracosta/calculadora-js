@@ -6,7 +6,7 @@
   "scripts": {
     "test-jasmine": "jasmine",
     "test-dev": "Karma start",
-    "test": "Karma start --single-run"
+    "test": "./node_modules/.bin/karma start --browsers Firefox --single-run"
   },
   "repository": {
     "type": "git",
