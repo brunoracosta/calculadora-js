@@ -23,7 +23,7 @@ describe("Suite de teste de Divição", function(){
 	});
 
 	it('deve retornar error se o segundo numero dor 0', function(){
-		expect(Calculadora.dividir('9', '0')).toEqual("Can't divede by zero");
+		expect(Calculadora.dividir('9', '0')).toEqual("Erro");
 	});
 
 });
