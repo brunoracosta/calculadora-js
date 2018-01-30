@@ -4,8 +4,8 @@
   "description": "Projeto de estudo de Testes em JS",
   "main": "index.js",
   "scripts": {
-	"test-jasmine": "jasmine",
-	"test-dev": "Karma start",
+    "test-jasmine": "jasmine",
+    "test-dev": "Karma start",
     "test": "Karma start --single-run"
   },
   "repository": {
@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/brunoracosta/calculadora-js#readme",
   "devDependencies": {
+    "bootstrap": "^3.3.7",
     "browserify": "^15.2.0",
     "jasmine": "^2.9.0",
     "karma": "^2.0.0",
